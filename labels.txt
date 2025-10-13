@@ -1,0 +1,8 @@
+0:ganesh
+1:gopi
+2:j rama krishna
+3:jaswanth
+4:kanna sai manikanta
+5:kanna
+6:ramakrishna
+7:surya

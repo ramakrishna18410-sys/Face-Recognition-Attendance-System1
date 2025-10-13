@@ -1,0 +1,9 @@
+dlib==19.24.1
+face_recognition
+opencv-python
+mediapipe
+firebase-admin
+
+
+only python version 3.11 it will taking
+and also required dlib-19.24.1-cp311-cp311-win_amd64.whl
